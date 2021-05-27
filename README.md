@@ -8,7 +8,7 @@
   
 - :star2: My main stack includes **ES6** JavaScript, **React** for front-end development (with **Hooks** and **Redux**/Context for state management), with **SASS** in modules for styling. For back-end development I usually use **Node**, **Express** and **MongoDB**.
   
-- :rocket: Huge fan of **Next.js** and in my most recent projects I'm moving towards *TypeScript*, *Styled-Components* for visuals and *GraphQL* to explore beyond the REST API development model.
+- :rocket: Huge fan of **Next.js** and in my most recent projects I'm moving towards *TypeScript*, *Styled-Components* for visuals and *GraphQL* to explore beyond the classic MERN development model.
   
 - :hear_no_evil: With a closer look at [my career](https://www.linkedin.com/in/fede-muniente/) you will find a background as a Journalist and Content Manager, so I like to think that I am fluent in both the *content* and *container* parts of development.
     
