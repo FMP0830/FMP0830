@@ -11,9 +11,7 @@
 - Huge fan of **Next.js** and in my most recent projects I'm moving towards TypeScript,  Styled-Components for visuals and GraphQL to explore beyond the REST API development model.
   
 - With a closer look at [my career](https://www.linkedin.com/in/fede-muniente/) you will find a background as a Journalist and Content Manager, so I like to think that I am fluent in both the *content* and *container* parts of development.
-  
-- Despite trying to change and focus on web development, a chance to work in education appeared. Willing to push myself further, I took it head on and found a very rewarding and extremely interesting environment. If you ever have the chance of taking a similar role, I'm sure you will get an  amazing experience.
-  
+    
 - By the way, despite being quite verbose in my presentation, I like to keep my code lean and clean!
   
 - You can connect with me here: [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fmp0830)[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fede-muniente/)
