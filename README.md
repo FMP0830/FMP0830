@@ -23,13 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fmp0830&show_icons=true&theme=dark&locale=en&layout=compact" alt="fmp0830" width="40%"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=fmp0830&show_icons=true&theme=dark&locale=en" alt="fmp0830" width="45%"/></p><br>
 
 
-|                                                              |                                                              |                                                              |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" height="64px" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" height="64px;" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" height="64px;" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="64px;" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="64px;" /> | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="Next.js" height="64px;" /> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="64px;" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="64px;" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="64px;" /> |
-| <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" height="64px;" /> | <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" height="64px;" /> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="64px;" /> |
-| <img src="https://www.chartjs.org/media/logo-title.svg" alt="ChartJS" height="64px;" /> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="FireBase" height="64px;"/> | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="64px;" /> |
+
 <!--
 **FMP0830/FMP0830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
