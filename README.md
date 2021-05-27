@@ -12,7 +12,7 @@
   
 - With a closer look at [my career](https://www.linkedin.com/in/fede-muniente/) you will find a background as a Journalist and Content Manager, so I like to think that I am fluent in both the *content* and *container* parts of development.
     
-- By the way, despite being quite verbose in my presentation, I like to keep my code lean and clean!
+- :see_no_evil: By the way, despite being quite verbose in my presentation, I like to keep my code lean and clean!
   
 - You can connect with me here: [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fmp0830)[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fede-muniente/)
 
