@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fede</h1>
+<h1 align="center">Hi there 👋, I'm Fede</h1>
 
 <br>
 
@@ -15,6 +15,10 @@
 - :see_no_evil: By the way, despite being quite verbose in my presentation, I like to keep my code lean and clean!
   
 - :speak_no_evil: You can connect with me here: [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fmp0830)[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fede-muniente/)
+
+<br>
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fmp0830&show_icons=true&theme=dark&locale=en&layout=compact" alt="fmp0830" width="40%"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=fmp0830&show_icons=true&theme=dark&locale=en" alt="fmp0830" width="45%"/></p><br>
 
