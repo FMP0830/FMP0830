@@ -19,20 +19,8 @@
 <br>
 <br>
 <br>
-<span align="left" width="40%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" height="64px" style="margin-left:20px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" height="64px;" style="margin-left:20px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="64px;" style="margin-left:20px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="64px;" style="margin-left:20px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="Next.js" height="64px;" style="margin-left:20px"/>
-</span>
-
-<span align="righte" width="40%" style="margin-left:60px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="64px;" style="margin-left:20px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="64px;" style="margin-left:20px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="64px;" style="margin-left:20px"/>
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" height="64px;" style="margin-left:20px"/>
-</span>
+<pre align="left" width="40%">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" height="64px" />     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" height="64px;"/>     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="64px;"/>     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="64px;"/>     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="Next.js" height="64px;"/>              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="64px;" style="margin-left:20px"/>     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="64px;" style="margin-left:20px"/>     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="64px;" style="margin-left:20px"/>     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" height="64px;" style="margin-left:20px"/>
+</pre>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fmp0830&show_icons=true&theme=dark&locale=en&layout=compact" alt="fmp0830" width="40%"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=fmp0830&show_icons=true&theme=dark&locale=en" alt="fmp0830" width="45%"/></p><br>
