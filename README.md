@@ -4,11 +4,12 @@
 
 <h3 align="left">I'm a MERN Full Stack Web Developer</h3>
 
-- 🔭 Currently working on [IronHack Barcelona](https://www.ironhack.com/en/barcelona) as a Teacher Assistant for the full time Web Development bootcamps.
+- 🔭 Currently working as a Full Stack JS/TS engineer in HP Printing and Computing Solutions S.L.U. 
+Previously I was at [IronHack Barcelona](https://www.ironhack.com/en/barcelona) as a Teacher Assistant for the full time Web Development bootcamps.
   
-- :star2: My main stack includes **ES6** JavaScript, **React** for front-end development (with **Hooks** and **Redux**/Context for state management), with **SASS** in modules for styling. For back-end development I usually use **Node**, **Express** and **MongoDB**.
+- :star2: My main stack includes **ES6** JavaScript, **React** (with **Hooks** and **Redux**/Context for state management) and **Vue** (with **vuex** for state management) for front-end development, with **SASS** in modules for styling. For back-end development I usually use **Node**, **Express** and **MongoDB**.
   
-- :rocket: Huge fan of **Next.js** and in my most recent projects I'm moving towards *TypeScript*, *Styled-Components* for visuals and *GraphQL* to explore beyond the classic MERN development model.
+- :rocket: Huge fan of **Next.js** for working with React, in my most recent projects I'm moving towards *TypeScript*, *Styled-Components* for visuals and *GraphQL* to explore beyond the classic MERN development model.
   
 - :hear_no_evil: With a closer look at [my career](https://www.linkedin.com/in/fede-muniente/) you will find a background as a Journalist and Content Manager, so I like to think that I am fluent in both the *content* and *container* parts of development.
     
