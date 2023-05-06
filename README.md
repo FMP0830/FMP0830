@@ -4,12 +4,16 @@
 
 <h3 align="left">I'm a MERN Full Stack Web Developer</h3>
 
-- 🔭 Currently working as a Full Stack JS/TS engineer in HP Printing and Computing Solutions S.L.U. 
+- 🔭 Currently working as a R&D Software engineer in HP Printing and Computing Solutions S.L.U. 
 Previously I was at [IronHack Barcelona](https://www.ironhack.com/en/barcelona) as a Teacher Assistant for the full time Web Development bootcamps.
   
-- :star2: My main stack includes **ES6** JavaScript, **React** (with **Hooks** and **Redux**/Context for state management) and **Vue** (with **vuex** for state management) for front-end development, with **SASS** in modules for styling. For back-end development I usually use **Node**, **Express** and **MongoDB**.
+- :star2: My main stack includes **TypeScript**, **React** (v18) and **Vue** (using Vue 2 on most projects, have not migrated everything to Vue 3 yet) for front-end development, with **SASS** in modules for styling (sprinkling some CSS-in-JS or TailwindCSS here and there). 
+
+- :mailbox_closed: For back-end development I usually use combinations of **NodeJS** and **Express** or **Fastify**. I'm not specially picky between **Postgres**, **MySQL** or **MongoDB** (it depends on the project and specially on the ORM to work with them). Most of the time it's REST api services, but can also manage some GraphQL apis. 
   
-- :rocket: Huge fan of **Next.js** for working with React, in my most recent projects I'm moving towards *TypeScript*, *Styled-Components* for visuals and *GraphQL* to explore beyond the classic MERN development model.
+- :rocket: Not shy to try any frameworks or test any new toy on side-projects on my free time. I like playing around with **Remix.js** and **Nuxt**, and have started enjoying **SvelteKit** lately.
+
+- :cyclone: Not afraid to containerize everything, normally any project I start on has a template of docker services to spin everything up quickly with a `compose up` touch. Normally those include the database layer, and some observality tools like combinations of Prometheus and Grafana. As a bonus, I also have some basic knowledge of major AWS systems (S3, Lamba, Cloudfront, Cloudwatch).
   
 - :hear_no_evil: With a closer look at [my career](https://www.linkedin.com/in/fede-muniente/) you will find a background as a Journalist and Content Manager, so I like to think that I am fluent in both the *content* and *container* parts of development.
     
@@ -29,8 +33,6 @@ Previously I was at [IronHack Barcelona](https://www.ironhack.com/en/barcelona) 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="60px;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="Next.js" height="60px;"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="60px;" style="margin-left:20px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="60px;" style="margin-left:20px"/>
